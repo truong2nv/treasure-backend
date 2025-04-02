@@ -1,0 +1,6 @@
+@OnePiece.WebAPI_HostAddress = http://localhost:5037
+
+GET {{OnePiece.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
