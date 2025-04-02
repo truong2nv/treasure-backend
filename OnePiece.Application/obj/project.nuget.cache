@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFdoVkHmHGA=",
+  "success": true,
+  "projectFilePath": "/Users/truong/Learn/Interview/Awing/Backend/treasure-backend/OnePiece.Application/OnePiece.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/truong/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.3/microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
+    "/Users/truong/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.3/microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "/Users/truong/.nuget/packages/microsoft.extensions.primitives/9.0.3/microsoft.extensions.primitives.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
